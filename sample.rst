@@ -8,8 +8,8 @@ This is an example file.
 ======  ========================
 column  description
 ======  ========================
-1       text
-2       http://aps.anl.gov
-3       `APS <http://aps.anl.gov>`_
+text    APS web site
+URL     http://aps.anl.gov
+href    `APS <http://aps.anl.gov>`_
 ======  ========================
 

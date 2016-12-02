@@ -10,5 +10,6 @@ column  description
 ======  ========================
 1       text
 2       http://aps.anl.gov
+3       `APS <http://aps.anl.gov>`_
 ======  ========================
 
